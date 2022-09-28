@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/aharnaui/static/css/main.83530d10.css",
+    "main.js": "/aharnaui/static/js/main.abbcc17b.js",
+    "static/js/787.5e2d8cf3.chunk.js": "/aharnaui/static/js/787.5e2d8cf3.chunk.js",
+    "static/media/explorebanner4.webp": "/aharnaui/static/media/explorebanner4.6f1c138ecfe988c5155b.webp",
+    "index.html": "/aharnaui/index.html",
+    "main.83530d10.css.map": "/aharnaui/static/css/main.83530d10.css.map",
+    "main.abbcc17b.js.map": "/aharnaui/static/js/main.abbcc17b.js.map",
+    "787.5e2d8cf3.chunk.js.map": "/aharnaui/static/js/787.5e2d8cf3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83530d10.css",
+    "static/js/main.abbcc17b.js"
+  ]
+}
